@@ -7,10 +7,6 @@ public class Nave : MonoBehaviour
     public float speed = 5;
     public GameObject originalBullet;
     public Coroutine coroutineWaitTime;
-    void Start()
-    {
-      
-    }
 
     void Update()
     {
